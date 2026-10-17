@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/coqui-ai/TTS/commit/dbf1a08a0d4e47fdad6172e433eeb34bc6b13b4e",
       "git:hexsha": "dbf1a08a0d4e47fdad6172e433eeb34bc6b13b4e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/coqui-ai/TTS/commit/a790df4e944fb035179e99423e828cf37658d9f0",
