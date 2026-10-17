@@ -1,0 +1,11 @@
+{
+  "org": "coqui-ai",
+  "repo": "TTS",
+  "versions": [
+    {
+      "commit": "dbf1a08a0d4e47fdad6172e433eeb34bc6b13b4e",
+      "tag": "",
+      "parsed_at": "2026-10-17T15:42:23.132462+00:00"
+    }
+  ]
+}
